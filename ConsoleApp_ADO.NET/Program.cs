@@ -1,5 +1,4 @@
 ﻿using System.Data.SqlClient;
-using System.Reflection.PortableExecutable;
 
 namespace ConsoleApp_ADO.NET
 {

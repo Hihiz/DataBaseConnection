@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp_EF", "ConsoleApp_EF\ConsoleApp_EF.csproj", "{03C3FE0A-55D0-4BC9-853B-6A46BD93853E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp_EF", "ConsoleApp_EF\ConsoleApp_EF.csproj", "{03C3FE0A-55D0-4BC9-853B-6A46BD93853E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp_ADO.NET", "ConsoleApp_ADO.NET\ConsoleApp_ADO.NET.csproj", "{7FA3D28E-4982-4EF1-9A1B-8CC4D12E304E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp_ADO.NET", "ConsoleApp_ADO.NET\ConsoleApp_ADO.NET.csproj", "{7FA3D28E-4982-4EF1-9A1B-8CC4D12E304E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_EF", "WPF_EF\WPF_EF.csproj", "{326E0EB4-B2AB-43B7-B96B-2D3ADBC2A2AF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{7FA3D28E-4982-4EF1-9A1B-8CC4D12E304E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7FA3D28E-4982-4EF1-9A1B-8CC4D12E304E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7FA3D28E-4982-4EF1-9A1B-8CC4D12E304E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{326E0EB4-B2AB-43B7-B96B-2D3ADBC2A2AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{326E0EB4-B2AB-43B7-B96B-2D3ADBC2A2AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{326E0EB4-B2AB-43B7-B96B-2D3ADBC2A2AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{326E0EB4-B2AB-43B7-B96B-2D3ADBC2A2AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
