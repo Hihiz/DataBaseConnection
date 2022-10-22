@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_ADO.NET", "WPF_ADO.NET\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsForms_EF", "WindowsForms_EF\WindowsForms_EF.csproj", "{12C0D39D-BF84-47A3-A9FF-A5BDBCE160C9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Windows Forms_ADO.NET", "Windows Forms_ADO.NET\Windows Forms_ADO.NET.csproj", "{4609101D-ED6B-49B9-89A2-91D4A075C783}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{12C0D39D-BF84-47A3-A9FF-A5BDBCE160C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12C0D39D-BF84-47A3-A9FF-A5BDBCE160C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12C0D39D-BF84-47A3-A9FF-A5BDBCE160C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4609101D-ED6B-49B9-89A2-91D4A075C783}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4609101D-ED6B-49B9-89A2-91D4A075C783}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4609101D-ED6B-49B9-89A2-91D4A075C783}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4609101D-ED6B-49B9-89A2-91D4A075C783}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
