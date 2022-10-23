@@ -9,7 +9,7 @@ namespace Windows_Forms_ADO.NET
         {
             InitializeComponent();
         }
-
+        
         private void Form1_Load(object sender, EventArgs e)
         {
             string connectionString = "Data Source=DESKTOP-CM8LNK7\\SQLEXPRESS;Initial Catalog=UserDataBase;Trusted_Connection=True;";

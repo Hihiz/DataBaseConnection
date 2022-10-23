@@ -7,13 +7,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp_EF", "ConsoleApp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp_ADO.NET", "ConsoleApp_ADO.NET\ConsoleApp_ADO.NET.csproj", "{7FA3D28E-4982-4EF1-9A1B-8CC4D12E304E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_EF", "WPF_EF\WPF_EF.csproj", "{326E0EB4-B2AB-43B7-B96B-2D3ADBC2A2AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WPF_EF", "WPF_EF\WPF_EF.csproj", "{326E0EB4-B2AB-43B7-B96B-2D3ADBC2A2AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_ADO.NET", "WPF_ADO.NET\WPF_ADO.NET.csproj", "{BB4D37A8-6093-46C3-954F-0F0CACDE3DA2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WPF_ADO.NET", "WPF_ADO.NET\WPF_ADO.NET.csproj", "{BB4D37A8-6093-46C3-954F-0F0CACDE3DA2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsForms_EF", "WindowsForms_EF\WindowsForms_EF.csproj", "{12C0D39D-BF84-47A3-A9FF-A5BDBCE160C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WindowsForms_EF", "WindowsForms_EF\WindowsForms_EF.csproj", "{12C0D39D-BF84-47A3-A9FF-A5BDBCE160C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Windows Forms_ADO.NET", "Windows Forms_ADO.NET\Windows Forms_ADO.NET.csproj", "{4609101D-ED6B-49B9-89A2-91D4A075C783}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Windows Forms_ADO.NET", "Windows Forms_ADO.NET\Windows Forms_ADO.NET.csproj", "{4609101D-ED6B-49B9-89A2-91D4A075C783}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsForms_ADO.NET_VisualStyle", "WindowsForms_ADO.Net_VisualStyle_\WindowsForms_ADO.NET_VisualStyle.csproj", "{E69D4B4C-C66D-4DC7-95C6-D2246FA90EEC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{4609101D-ED6B-49B9-89A2-91D4A075C783}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4609101D-ED6B-49B9-89A2-91D4A075C783}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4609101D-ED6B-49B9-89A2-91D4A075C783}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E69D4B4C-C66D-4DC7-95C6-D2246FA90EEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E69D4B4C-C66D-4DC7-95C6-D2246FA90EEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E69D4B4C-C66D-4DC7-95C6-D2246FA90EEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E69D4B4C-C66D-4DC7-95C6-D2246FA90EEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
